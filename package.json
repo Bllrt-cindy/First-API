@@ -13,7 +13,6 @@
     "axios": "^0.24.0",
     "express": "^4.17.2",
     "faker": "^6.6.6",
-    "heroku": "^7.59.2",
     "joi": "^17.5.0"
   },
   "devDependencies": {
